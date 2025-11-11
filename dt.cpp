@@ -1,4 +1,4 @@
-/*//Write a C++ to take input of all data types and print list.
+//Write a C++ to take input of all data types and print list.
 #include <iostream>
 using namespace std;
 int main ()
@@ -64,7 +64,7 @@ int main()
 }*/
 
 
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 int main ()
 {
@@ -72,4 +72,5 @@ int main ()
     cin >> s;
 
     cout << "Hello, " << s << endl;
-}
+
+}*/
