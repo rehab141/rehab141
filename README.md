@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **azizhaque006@gmail.com**
 
-- ⚡ Fun fact **Cartoon Lover' and 1'**
+- ⚡ Fun fact **Cartoon Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
