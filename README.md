@@ -14,10 +14,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/rihab.ahr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rihab.ahr" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/itz___rihu_____?igsh=mta0otrschpwa3b5na==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz___rihu_____?igsh=mta0otrschpwa3b5na==" height="30" width="40" /></a>
-</p>
 
+<a href="https://www.facebook.com/rihab.ahr" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/itz__rihu____?igsh=rta0otrschpwa3b5na==" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/azizul-haque-8b5644373" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" height="30" width="40" />
+</a>
+<a href="mailto:azizhaque006@gmail.com" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+height="30" width="40" />
+</a>
+
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
@@ -29,4 +47,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehab141&show_icons=true&locale=en" alt="rehab141" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehab141&" alt="rehab141" /></p>
-
