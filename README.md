@@ -13,26 +13,22 @@
 - ⚡ Fun fact **Cartoon Lover**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-
 <a href="https://www.facebook.com/rihab.ahr" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=facebook" height="40" />
 </a>
 
-<a href="https://www.instagram.com/itz__rihu____?igsh=rta0otrschpwa3b5na==" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-height="30" width="40" />
+<a href="https://www.instagram.com/itz__rihu____" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
+
 <a href="https://www.linkedin.com/in/azizul-haque-8b5644373" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:azizhaque006@gmail.com" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-height="30" width="40" />
+
+<a href="mailto:azizhaque006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
 </p>
