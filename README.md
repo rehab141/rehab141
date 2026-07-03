@@ -1,44 +1,111 @@
-
 <h1 align="center">Hi 👋, I'm Azizul Haque</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<h3 align="center">💻 CSE Student | Future Software Engineer | Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehab141&label=Profile%20views&color=0e75b6&style=flat" alt="rehab141" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;C%2B%2B+Learner;Future+Software+Engineer;Competitive+Programming+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
 
-- 🌱 I’m currently learning **CSE**
+---
 
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
+## 👨‍💻 About Me
+
+- 🎓 CSE Student
+- 🌱 Currently Learning **C++ & Data Structures**
+- 💡 Interested in **Competitive Programming**
+- 💻 Future Full Stack Developer
 - 📫 How to reach me **azizhaque006@gmail.com**
+- ⚡ Fun Fact: **Cartoon Lover ❤️**
 
-- ⚡ Fun fact **Cartoon Lover**
+<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/rihab.ahr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rihab.ahr" height="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rihab.ahr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rihab.ahr" height="48" /></a>
 
 
-<a href="https://www.instagram.com/itz__rihu____" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+<a href="https://www.instagram.com/itz__rihu____">
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
-<a href="https://www.linkedin.com/in/azizul-haque-8b5644373" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/in/azizul-haque-8b5644373">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
 <a href="mailto:azizhaque006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
+</p>
+
+---
+
+## 🚀 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,git,github,vscode" />
 
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rehab141"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rehab141" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehab141&show_icons=true&locale=en&layout=compact" alt="rehab141" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehab141&show_icons=true&locale=en" alt="rehab141" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehab141&" alt="rehab141" /></p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rehab141&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rehab141&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehab141&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rehab141&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehab141&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rehab141&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+✨ Thanks for visiting my profile ✨
+</h3>
